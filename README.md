@@ -1,8 +1,13 @@
-# psd-pc
-Repository for code utilized in 'Encoding Negative Dependencies in Probabilistic Circuits' paper submitted to the Tractable Probabilistic Modelling 2023 workshop.
+# Encoding Negative Dependencies in Probabilistic Circuits
+
+Implementation of 'Encoding Negative Dependencies in Probabilistic Circuits', presented at the Tractable Probabilistic Modelling workshop at UAI 2023.
 
 ## Files
 WIP
 
 ## Documentation
 WIP
+
+# License
+
+# Citation
